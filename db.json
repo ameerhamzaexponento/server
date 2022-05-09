@@ -1,0 +1,6 @@
+{
+  "contacts":[
+    { "id": 1, "fullName": "Hamza", "email": "hamza@gmail.com", "country": "Pakistan", "city": "Lahore"},
+    { "id": 2, "fullName": "Haroon", "email": "haroon@test.com", "country": "USA", "city": "USA City"}
+  ]
+}
